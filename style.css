@@ -14,6 +14,11 @@ body{
     font-size: 38px;
     margin-bottom: 10px;
     display: inline-block;
+    vertical-align: middle;
+}
+img{
+    display: inline-block;
+    vertical-align: middle;
 }
 
 
